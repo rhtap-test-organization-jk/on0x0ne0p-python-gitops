@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: on0x0ne0p-python-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/on0x0ne0p-python
